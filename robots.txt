@@ -1,0 +1,15 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-Agent: W3C-checklink
+Disallow:
+
+User-agent: *
+Disallow: /admin-access
+Disallow: /config
+Disallow: /includes
+Disallow: /lib
+Disallow: /utilities
+
+User-agent: BadBot
+Disallow: /
